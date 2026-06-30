@@ -1,2 +1,5 @@
-# git-practice
-Learning Git and GitHub basics.
+# Git Practice
+
+My first GitHub repository.
+
+Learning Git and GitHub.
